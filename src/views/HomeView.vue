@@ -222,7 +222,7 @@ brandClickCount.value = 0}, 800)
 if (brandClickCount.value >= 5) {
   brandClickCount.value = 0
   clearTimeout(clickTimer)
-  router.push('/secret')
+ // router.push('/secret') //
 }
 }
 
