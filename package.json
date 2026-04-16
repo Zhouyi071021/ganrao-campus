@@ -20,5 +20,8 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.5",
     "vite": "^8.0.4"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
